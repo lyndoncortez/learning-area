@@ -1,5 +1,9 @@
 # Marking guide for "Marking up a letter"
 
+💾 Preview it here: [Email Activity](https://lyndoncortez.github.io/batch5-activities/Day%202-EmailActivity/index.html)
+<br>
+<br>
+
 The following guide outlines a marking guide for the MDN Learning Area HTML Topic — [Marking up a letter](https://developer.mozilla.org/en-US/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter). Each subtask detailed in the assessment is listed below, along with an explanation of how many marks the task is worth, and the mark breakdown.
 
 Note: These are guidelines, not set in stone rules — you are of course free to use your judgement on mark awarding when you meet an edge case, or somethign that isn't clearly cut.
